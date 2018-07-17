@@ -1,0 +1,48 @@
+@charset 'UTF-8';
+
+
+* {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h1 {
+    margin-top: 1em;
+}
+
+body {
+    background-color: white;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+a:visited {
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+p {
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.flappy_bird_container {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    position: absolute;
+    width: 80%;
+    height: 100%;
+    font-size: 2em;
+}
+
+footer {
+    margin-top: 20px;
+}
