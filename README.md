@@ -1,2 +1,2 @@
 # FlappyBird
-Flappy Bird Game
+An implementation of Flappy Bird. Simply for fun and coding practice.
